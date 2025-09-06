@@ -2,6 +2,9 @@
 
 This repository contains a **Power BI dashboard** designed to provide comprehensive analytics for retail store performance. The dashboard visualizes essential metrics including sales, profit, returned orders, and in-depth breakdowns by product, state, and market segment.
 
+<img width="1257" height="713" alt="image" src="https://github.com/theravendrasahu/Retail-Store-Analytics-Dashboard/blob/c9e3e6b64ae1912172f2f7de84fe33f581de346a/Dashboard%20image.png" />
+
+
 ## Features
 
 - **Sales & Profit Tracking:** Monitor total sales and profit figures alongside year-over-year comparisons.
