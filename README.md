@@ -40,7 +40,3 @@ Additionally, calculated measures are included for year-over-year comparisons an
 - Add new segments or product categories using the Orders data.
 - Modify visual types to suit your analysis needs (e.g., swap bar chart for stacked column).
 - Integrate additional KPIs for inventory, promotion impact, etc.
-
-## License
-
-This dashboard is MIT licensed for both commercial and non-commercial use.
